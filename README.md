@@ -43,7 +43,7 @@
 <br clear="both">
 
 <div align="left">
-  <a href="https://t.me/Nikalaiminkov" target="_blank">
+  <a href="https://t.me/Nikolaiminkov" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="56" height="44" alt="telegram logo"  />
   </a>
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="56" height="44" alt="discord logo"  />

@@ -8,9 +8,7 @@
 
 <br clear="both">
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=speech&section=footer&reversal=true&text=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%20%D0%AF%20%D0%BD%D0%B0%D1%87%D0%B8%D0%BD%D0%B0%D1%8E%D1%89%D0%B8%D0%B9%20%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%20%D0%B8%D0%B7%20%D0%91%D0%B5%D0%BB%D0%B0%D1%80%D1%83%D1%81%D0%B8.%20%D0%98%D0%B7%D1%83%D1%87%D0%B0%D1%8E%20Python%20%D0%B8%20%D0%B2%D0%B5%D0%B1-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%BA%D1%83.%20%D0%98%D0%BD%D1%82%D0%B5%D1%80%D0%B5%D1%81%D1%83%D1%8E%D1%81%D1%8C%20%D0%B1%D1%8D%D0%BA%D0%B5%D0%BD%D0%B4%D0%BE%D0%BC%20%D0%B8%20open-source.&fontSize=14&fontColor=FFFFFF&fontAlign=50&fontAlignY=57&rotate=0&stroke=-&descSize=12&descAlign=50&descAlignY=46&textBg=false&theme=tokyonight"  />
-</div>
+
 
 ###
 
